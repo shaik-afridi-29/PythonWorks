@@ -1,6 +1,0 @@
-print('Simple Interest')
-P=int(input("Enter the value of P ="))
-T=int(input("Enter the value of T ="))
-R=int(input("Enter the value of R ="))
-print('The Simple Interest for the above values is')
-print((P*T*R)/100)
