@@ -1,0 +1,5 @@
+print('Area of Rectangle')
+l=int(input("Enter the length of triangle ="))
+w=int(input("Enter the width of triangle ="))
+print('The Area of Rectangle is')
+print(l*w)
